@@ -1,0 +1,12 @@
+COMPONENTS USED:
+
+DS18B20 Temperature Sensor
+Arduino Uno
+Relay Module
+LCD Display
+Push Buttons
+Buzzer
+4.7k Ohm Pull-up Resistor
+Jumper Wires
+
+Language: Arduino
